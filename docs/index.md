@@ -1,6 +1,6 @@
-# project-name
+# my-project
 
-A short description of your project.
+Test Pages auto-enable.
 
 ## Overview
 

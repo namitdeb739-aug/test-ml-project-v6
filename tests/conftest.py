@@ -4,7 +4,7 @@ Add project-wide fixtures here. They will be automatically available
 to all tests without importing.
 
 Example:
-    from project_name.config import Config
+    from my_project.config import Config
 
     @pytest.fixture
     def sample_config() -> Config:

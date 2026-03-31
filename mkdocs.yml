@@ -1,7 +1,7 @@
-site_name: project-name
-site_description: A short description of your project
-repo_url: https://github.com/your-username/your-repo
-repo_name: your-username/your-repo
+site_name: my-project
+site_description: Test Pages auto-enable
+repo_url: https://github.com/namitdeb739-aug/my-project
+repo_name: namitdeb739-aug/my-project
 
 theme:
   name: material
